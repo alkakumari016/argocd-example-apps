@@ -47,3 +47,11 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+ui:
+  message: "Guestbook"
+
+redis:
+  fullnameOverride: guestbook-redis
+  architecture: standalone
+  auth:
+    enabled: false
