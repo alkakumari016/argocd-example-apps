@@ -54,3 +54,6 @@ my-nginx:
   replicaCount: 2
   image:
     tag: "0.1.0"
+  serviceAccount:
+    create: true
+    name: ""
