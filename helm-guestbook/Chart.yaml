@@ -22,6 +22,6 @@ version: 0.1.0
 # follow Semantic Versioning. They should reflect the version the application is using.
 appVersion: "1.0"
 dependencies:
-  - name: redis
-    version: 19.5.3
-    repository: "https://charts.bitnami.com/bitnami"
+  - name: my-nginx
+    version: 0.1.0
+    repository: oci://quay.io/rhn-support-alkumari/oci-nginx

@@ -50,8 +50,7 @@ affinity: {}
 ui:
   message: "Guestbook"
 
-redis:
-  fullnameOverride: guestbook-redis
-  architecture: standalone
-  auth:
-    enabled: false
+my-nginx:
+  replicaCount: 2
+  image:
+    tag: "1.23"

@@ -1,6 +1,6 @@
 dependencies:
-- name: redis
-  repository: https://charts.bitnami.com/bitnami
-  version: 19.5.3
-digest: sha256:a73ff685a1021fcd18e2740f422a0b9906c4d8287b13cdf7453c7e3bb596b160
-generated: "2025-06-17T16:16:28.670023+05:30"
+- name: my-nginx
+  repository: oci://quay.io/rhn-support-alkumari/oci-nginx
+  version: 0.1.0
+digest: sha256:a58c349755196e84ec17d9ab832dad4bffd548dcc9373a721ac32d75046464f7
+generated: "2025-06-18T15:26:28.895162+05:30"
