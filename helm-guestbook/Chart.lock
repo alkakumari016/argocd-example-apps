@@ -1,6 +1,0 @@
-dependencies:
-- name: my-nginx
-  repository: oci://quay.io/rhn-support-alkumari/oci-nginx
-  version: 0.1.0
-digest: sha256:a58c349755196e84ec17d9ab832dad4bffd548dcc9373a721ac32d75046464f7
-generated: "2025-06-18T15:26:28.895162+05:30"
