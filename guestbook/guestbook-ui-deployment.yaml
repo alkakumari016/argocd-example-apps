@@ -13,7 +13,7 @@ spec:
       labels:
         app: guestbook-ui
         test2: sync
-        testing: 123e
+        testing: 123e857484848
     spec:
       containers:
         - image: gcr.io/google-samples/gb-frontend:v5
