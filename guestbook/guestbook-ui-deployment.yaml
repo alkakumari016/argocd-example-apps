@@ -13,6 +13,7 @@ spec:
       labels:
         app: guestbook-ui
         test1 : test
+        test2: sync
     spec:
       containers:
         - image: gcr.io/google-samples/gb-frontend:v5
