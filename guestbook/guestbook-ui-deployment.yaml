@@ -12,7 +12,6 @@ spec:
     metadata:
       labels:
         app: guestbook-ui
-        test2: sync
         testing: 123e857484848
     spec:
       containers:
