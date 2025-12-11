@@ -12,7 +12,6 @@ spec:
     metadata:
       labels:
         app: guestbook-ui
-        testing: testing123457
     spec:
       containers:
         - image: gcr.io/google-samples/gb-frontend:v5
