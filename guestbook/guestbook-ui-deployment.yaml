@@ -12,7 +12,7 @@ spec:
     metadata:
       labels:
         app: guestbook-ui
-        testing: 123e857484848
+        testing: jhg
     spec:
       containers:
         - image: gcr.io/google-samples/gb-frontend:v5
