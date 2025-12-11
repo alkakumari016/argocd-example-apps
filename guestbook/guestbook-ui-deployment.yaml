@@ -12,7 +12,7 @@ spec:
     metadata:
       labels:
         app: guestbook-ui
-        testing: 1234sart
+        testing: 1234sarting
     spec:
       containers:
         - image: gcr.io/google-samples/gb-frontend:v5
