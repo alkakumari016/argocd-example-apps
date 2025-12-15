@@ -12,7 +12,7 @@ spec:
     metadata:
       labels:
         app: guestbook-ui
-        testLabel: value12345
+        testLabel: value123457890
     spec:
       containers:
         - image: gcr.io/google-samples/gb-frontend:v5
